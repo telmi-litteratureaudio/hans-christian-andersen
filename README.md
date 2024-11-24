@@ -1,6 +1,6 @@
 ![Total Download](https://img.shields.io/github/downloads/telmi-litteratureaudio/hans-christian-andersen/total.svg)
 
-# [10+] Hans Christian Andersen (FR)
+# [7+] Les contes de Hans Christian Andersen (FR)
 
 Les contes originaux de  :
  - La Bergère et le Ramoneur
